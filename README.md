@@ -40,3 +40,7 @@ Results and analysis are documented in [`fraud.ipynb`](fraud.ipynb), including:
 - Some operations and results may differ from those obtained using the full dataset due to the reduced data size.
 
 For more details, see the notebook: [`fraud.ipynb`](fraud.ipynb)# fraud-detection-financial-transactions
+
+>  The original dataset (~6.3 million rows) was too large to upload directly to GitHub.  
+> To manage this, Git filters (e.g., Git LFS) were used for handling large files efficiently.  
+> Relevant screenshots are available in the `images/` folder.
